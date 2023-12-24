@@ -1,6 +1,8 @@
-![image](https://github.com/Atharvadahitule/CODSOFT-3/assets/91479522/aa7fa565-b855-4561-995a-bfbd0a1d4d25)
+WELCOME TO MY 3rd PROJECT ON PASSWORD GENERATOR APP
 
 A password generator is a useful tool that generates strong and random passwords for users. This project aims to create a password generator application using Python, allowing users to specify the length and complexity of the password.
+
+![image](https://github.com/Atharvadahitule/CODSOFT-3/assets/91479522/aa7fa565-b855-4561-995a-bfbd0a1d4d25)
 
 User Input: Prompt the user to specify the desired length of thepassword.
 
